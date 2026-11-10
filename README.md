@@ -1,4 +1,4 @@
-# Tafsir untuk Pelajar SMP
+# Tafsir mudah untuk pelajar
 
 Tafsir Al-Qur'an dengan bahasa sehari-hari untuk pelajar SMP.
 

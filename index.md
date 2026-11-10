@@ -2,7 +2,7 @@
 title: Beranda
 ---
 
-# Tafsir untuk Pelajar SMP
+# Tafsir mudah untuk pelajar
 
 Tafsir Al-Qur'an yang ditulis dengan bahasa sehari-hari supaya mudah dipahami pelajar SMP. Setiap surah dibahas ayat demi ayat, dilengkapi penjelasan dari kitab tafsir klasik.
 
