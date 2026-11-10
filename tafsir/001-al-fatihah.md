@@ -1,3 +1,7 @@
+---
+title: Tafsir Surah Al-Fatihah
+---
+
 # Tafsir Surah Al-Fatihah
 
 Untuk pelajar SMP. Ditulis dengan bahasa sehari-hari supaya mudah dipahami.

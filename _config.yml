@@ -1,0 +1,25 @@
+title: Tafsir untuk Pelajar SMP
+description: Tafsir Al-Qur'an dengan bahasa sehari-hari, ditulis untuk pelajar SMP.
+lang: id
+url: "https://bondhan.github.io"
+baseurl: "/tafseer"
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+plugins:
+  - jekyll-titles-from-headings
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - .claude
