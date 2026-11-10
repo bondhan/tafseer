@@ -118,13 +118,50 @@ Ada satu pertanyaan yang sering muncul. Kita sudah Muslim, kenapa masih minta di
 
 Artinya: "(Yaitu) jalan orang-orang yang telah Engkau beri nikmat kepada mereka, bukan (jalan) mereka yang dimurkai, dan bukan (pula jalan) mereka yang sesat."
 
-Ayat ini menjelaskan seperti apa "jalan yang lurus" itu. Ada tiga kelompok yang disebut:
+Ayat ini menjelaskan seperti apa "jalan yang lurus" itu. Ada tiga kelompok yang disebut, dan ayat ini sering disalahpahami, jadi kita bahas pelan-pelan.
 
-- **Orang yang diberi nikmat.** Dalam Surah An-Nisa ayat 69, mereka disebut: para nabi, orang-orang yang jujur, orang-orang yang mati syahid, dan orang-orang saleh. Kita meminta agar dijadikan bagian dari mereka.
-- **Orang yang dimurkai (al-maghdhub 'alaihim).** Menurut penjelasan para ulama tafsir, ini adalah orang yang tahu kebenaran tetapi tidak mau mengamalkannya.
-- **Orang yang sesat (adh-dhallin).** Ini orang yang beribadah atau beramal tanpa ilmu, sehingga salah arah.
+### Kelompok 1: orang yang diberi nikmat
 
-Sebagian ulama tafsir mengaitkan dua kelompok terakhir dengan golongan tertentu dari umat terdahulu. Namun pelajaran utamanya berlaku untuk kita juga. Kita bisa terjatuh pada dua kesalahan itu: tahu tapi tidak mau melakukan, atau semangat beramal tapi asal-asalan tanpa belajar. Karena itu seorang Muslim butuh ilmu dan amal sekaligus.
+Dalam Surah An-Nisa ayat 69, mereka disebut: para nabi, orang-orang yang jujur (shiddiqin), orang-orang yang mati syahid, dan orang-orang saleh. Kita meminta agar dijadikan bagian dari mereka. Nikmat yang dimaksud terutama nikmat hidayah: tahu jalan yang benar dan mau menjalaninya.
+
+### Kelompok 2: yang dimurkai (al-maghdhub 'alaihim)
+
+Menurut tafsir para ulama, yang dimaksud adalah **orang Yahudi**, yaitu mereka yang sudah diberi ilmu dan tahu kebenaran, tetapi menolaknya dan tidak mengamalkannya.
+
+Dasarnya ada dua:
+
+1. **Hadis Adi bin Hatim.** Rasulullah menjelaskan bahwa yang dimurkai adalah orang Yahudi dan yang sesat adalah orang Nasrani. Hadis ini diriwayatkan antara lain oleh Ahmad dan At-Tirmidzi, dan dinilai hasan oleh At-Tirmidzi. Ibnu Katsir menyebutkannya dalam tafsirnya.
+2. **Ayat-ayat Al-Qur'an yang menyebut kemurkaan Allah kepada Bani Israil.** Contohnya Surah Al-Baqarah ayat 90 dan Surah Al-Ma'idah ayat 60. Kedua ayat itu menceritakan kaum yang tahu tetapi menentang.
+
+### Kelompok 3: yang sesat (adh-dhallin)
+
+Menurut tafsir para ulama, yang dimaksud adalah **orang Nasrani**, yaitu mereka yang rajin beribadah dan bersemangat, tetapi tanpa ilmu yang benar, sehingga salah arah.
+
+Dasarnya sama: hadis Adi bin Hatim di atas, dan ayat seperti Surah Al-Ma'idah ayat 77 yang menyebut sebagian Ahli Kitab telah tersesat dari jalan yang lurus.
+
+Ibnu Katsir menyebut bahwa penafsiran ini dipegang oleh para mufasir. Ia mengutip Ibnu Abi Hatim yang mengatakan tidak mengetahui adanya perbedaan pendapat di antara ahli tafsir dalam hal ini. Jadi ini bukan penafsiran pribadi, melainkan penjelasan yang diwariskan dari generasi awal.
+
+### Cara membedakan dua kesalahan itu
+
+| | Yang dimurkai | Yang sesat |
+|---|---|---|
+| Ilmunya | Ada | Kurang atau salah |
+| Amalnya | Tidak diamalkan | Banyak, tapi salah arah |
+| Kesalahannya | Tahu tapi menolak | Semangat tapi tidak paham |
+
+Kalau diringkas: yang pertama punya ilmu tanpa amal, yang kedua punya amal tanpa ilmu. Jalan yang lurus adalah ilmu dan amal berjalan bersama.
+
+### Bukan sekadar nama golongan
+
+Ada tiga hal penting supaya ayat ini tidak dipahami keliru.
+
+**Pertama, ini tentang sifat, bukan alasan untuk membenci orang.** Al-Qur'an sendiri mengajarkan sikap adil. Surah Al-Mumtahanah ayat 8 menyatakan Allah tidak melarang kita berbuat baik dan berlaku adil kepada orang yang tidak memerangi kita karena agama. Surah Ali Imran ayat 113 juga menyebut bahwa Ahli Kitab itu tidak semuanya sama, ada di antara mereka yang berbuat baik. Jadi ayat ke-7 tidak memberi kita hak untuk menghina atau menganggap rendah siapa pun.
+
+**Kedua, ini peringatan untuk diri kita sendiri.** Kita meminta kepada Allah agar tidak ditempatkan di jalan mereka. Jadi doa ini sebenarnya cermin. Sebagian ulama menjelaskan bahwa Muslim pun bisa meniru kesalahan itu. Siapa yang tahu tapi tidak mengamalkan, ia mirip dengan kesalahan kelompok pertama. Siapa yang beribadah tanpa mau belajar, ia mirip dengan kesalahan kelompok kedua. Penjelasan seperti ini muncul dalam kitab-kitab tafsir, tapi perlu dicek rujukannya sebelum dikutip.
+
+**Ketiga, ayat ini tidak menghakimi orang per orang.** Nasib seseorang di akhirat adalah urusan Allah. Tugas kita adalah menjaga ilmu dan amal kita sendiri.
+
+Contoh dekat untuk pelajar: kamu tahu bahwa berbohong itu dosa, tapi kamu tetap melakukannya. Itu mirip kesalahan pertama. Atau kamu ikut-ikutan melakukan sebuah amalan hanya karena banyak orang melakukannya, tanpa tahu dalilnya. Itu mirip kesalahan kedua. Doa dalam ayat ini membantu kita waspada terhadap keduanya.
 
 Setelah membaca Al-Fatihah dalam shalat, kita mengucapkan "Aamiin", yang artinya "kabulkanlah ya Allah".
 
@@ -138,7 +175,7 @@ Setelah membaca Al-Fatihah dalam shalat, kita mengucapkan "Aamiin", yang artinya
 | 4 | Allah pemilik hari pembalasan |
 | 5 | Janji beribadah dan bersandar hanya kepada Allah |
 | 6 | Minta ditunjuki jalan yang lurus |
-| 7 | Jalan orang yang diberi nikmat, bukan yang dimurkai atau sesat |
+| 7 | Jalan orang yang diberi nikmat, bukan jalan yang dimurkai (tahu tapi tidak mengamalkan) atau yang sesat (beramal tanpa ilmu) |
 
 ## Pertanyaan untuk dipikirkan
 
@@ -149,4 +186,4 @@ Setelah membaca Al-Fatihah dalam shalat, kita mengucapkan "Aamiin", yang artinya
 
 ## Catatan untuk guru dan orang tua
 
-Tafsir ini disusun ringkas dan disederhanakan untuk pelajar SMP. Penjelasannya mengikuti pemahaman umum dalam kitab-kitab tafsir klasik, tetapi belum diperiksa ulang oleh ahli tafsir. Rujukan hadis dan pendapat ulama di atas sebaiknya diverifikasi ke kitab aslinya sebelum dipakai sebagai bahan resmi. Perbedaan pendapat, misalnya soal penghitungan ayat dan penafsiran ayat ke-7, hanya dirangkum secara singkat. Pembahasan lengkapnya ada di kitab seperti tafsir Ibnu Katsir atau At-Thabari.
+Tafsir ini disusun ringkas dan disederhanakan untuk pelajar SMP. Penjelasannya mengikuti pemahaman umum dalam kitab-kitab tafsir klasik, tetapi belum diperiksa ulang oleh ahli tafsir. Rujukan hadis dan pendapat ulama di atas sebaiknya diverifikasi ke kitab aslinya sebelum dipakai sebagai bahan resmi. Perbedaan pendapat, misalnya soal penghitungan ayat, hanya dirangkum secara singkat. Untuk ayat ke-7, rujukan hadis Adi bin Hatim dan nomor ayat pendukung (Al-Baqarah 90, Al-Ma'idah 60 dan 77, Al-Mumtahanah 8, Ali Imran 113) sebaiknya dicek langsung ke mushaf dan kitab hadis. Pembahasan lengkapnya ada di kitab seperti tafsir Ibnu Katsir atau At-Thabari.
