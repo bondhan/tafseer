@@ -20,7 +20,7 @@ Kalau diringkas, Al-Fatihah adalah percakapan antara manusia dan Allah. Tiga aya
 
 Urutannya masuk akal. Kalau kamu minta tolong kepada seseorang, kamu biasanya menyapa dan menghormatinya dulu, baru menyampaikan permintaan. Al-Fatihah mengajarkan adab yang sama kepada Allah.
 
-Ada hadis qudsi riwayat Muslim yang menyebut hal ini. Allah berfirman bahwa Dia membagi shalat menjadi dua bagian antara diri-Nya dan hamba-Nya, dan ketika hamba membaca Al-Fatihah ayat demi ayat, Allah menjawabnya. Jadi saat kamu membaca Al-Fatihah, kamu sedang benar-benar "berbicara" dengan Allah, bukan sekadar membaca teks hafalan.
+Ada hadis qudsi riwayat Muslim yang menyebut hal ini. At-Tabari juga meriwayatkannya dalam tafsirnya, dari Abu Hurairah dan dari Jabir bin Abdullah. Allah berfirman bahwa Dia membagi shalat menjadi dua bagian antara diri-Nya dan hamba-Nya, dan ketika hamba membaca Al-Fatihah ayat demi ayat, Allah menjawabnya. Jadi saat kamu membaca Al-Fatihah, kamu sedang benar-benar "berbicara" dengan Allah, bukan sekadar membaca teks hafalan.
 
 ## Ayat 1: Basmalah
 
@@ -130,7 +130,7 @@ Menurut tafsir para ulama, yang dimaksud adalah **orang Yahudi**, yaitu mereka y
 
 Dasarnya ada dua:
 
-1. **Hadis Adi bin Hatim.** Rasulullah menjelaskan bahwa yang dimurkai adalah orang Yahudi dan yang sesat adalah orang Nasrani. Hadis ini diriwayatkan antara lain oleh Ahmad dan At-Tirmidzi, dan dinilai hasan oleh At-Tirmidzi. Ibnu Katsir menyebutkannya dalam tafsirnya.
+1. **Hadis Adi bin Hatim.** Rasulullah menjelaskan bahwa yang dimurkai adalah orang Yahudi dan yang sesat adalah orang Nasrani. Hadis ini diriwayatkan antara lain oleh Ahmad dan At-Tirmidzi, dan At-Tirmidzi menilainya hasan gharib. Ibnu Katsir menyebutkannya dalam tafsirnya.
 2. **Ayat-ayat Al-Qur'an yang menyebut kemurkaan Allah kepada Bani Israil.** Contohnya Surah Al-Baqarah ayat 90 dan Surah Al-Ma'idah ayat 60. Kedua ayat itu menceritakan kaum yang tahu tetapi menentang.
 
 ### Kelompok 3: yang sesat (adh-dhallin)
@@ -140,6 +140,28 @@ Menurut tafsir para ulama, yang dimaksud adalah **orang Nasrani**, yaitu mereka 
 Dasarnya sama: hadis Adi bin Hatim di atas, dan ayat seperti Surah Al-Ma'idah ayat 77 yang menyebut sebagian Ahli Kitab telah tersesat dari jalan yang lurus.
 
 Ibnu Katsir menyebut bahwa penafsiran ini dipegang oleh para mufasir. Ia mengutip Ibnu Abi Hatim yang mengatakan tidak mengetahui adanya perbedaan pendapat di antara ahli tafsir dalam hal ini. Jadi ini bukan penafsiran pribadi, melainkan penjelasan yang diwariskan dari generasi awal.
+
+### Penjelasan At-Tabari
+
+Imam At-Tabari (Abu Ja'far Muhammad bin Jarir At-Tabari, wafat 310 H) menulis tafsir *Jami' al-Bayan*, salah satu tafsir tertua dan paling banyak dirujuk. Cara kerjanya khas: ia mengumpulkan riwayat dari sahabat dan tabiin, lalu menyimpulkan. Ini yang ia sampaikan tentang ayat 7, dalam bahasa yang disederhanakan:
+
+**1. Ayat 7 adalah penjelasan dari ayat 6.** "Jalan yang lurus" itu dijelaskan sebagai jalan orang-orang yang Allah beri nikmat berupa ketaatan dan ibadah. Merujuk Surah An-Nisa ayat 69, mereka adalah para nabi, shiddiqin, syuhada, dan orang saleh. Dalam riwayat Ibnu Abbas yang ia bawakan, daftar itu juga memuat para malaikat.
+
+**2. Taat itu sendiri adalah nikmat.** At-Tabari menyebut ayat ini sebagai bukti jelas bahwa orang yang taat tidak mencapai ketaatannya kecuali karena nikmat dan taufik dari Allah. Sebab di ayat ini, hidayah, ketaatan, dan ibadah mereka semuanya disebut sebagai nikmat dari Allah. Pelajaran untuk kita: kalau kamu bisa rajin shalat atau mau belajar agama, itu bukan alasan untuk bangga. Itu nikmat yang patut disyukuri dan diminta terus.
+
+**3. Orang yang diberi hidayah otomatis selamat dari dua kesalahan itu.** Menurut At-Tabari, orang yang telah Allah beri petunjuk pasti tidak dimurkai dan tidak sesat. Tidak mungkin seseorang pada saat yang sama diridhai dan dimurkai, atau sekaligus mendapat petunjuk dan sesat. Jadi "bukan jalan yang dimurkai dan sesat" memperjelas jalan yang lurus tadi.
+
+**4. Yang dimurkai adalah Yahudi.** At-Tabari menyebut dasarnya: Surah Al-Ma'idah ayat 60, beberapa jalur hadis Adi bin Hatim, dan satu hadis lain dari Abdullah bin Syaqiq. Dalam hadis itu seseorang bertanya kepada Rasulullah di Wadil Qura tentang siapa mereka, dan Rasulullah menjawab bahwa mereka yang dimurkai adalah Yahudi. Tafsir yang sama diriwayatkan dari Ibnu Abbas, Ibnu Mas'ud, Mujahid, Ar-Rabi', Ibnu Juraij, dan Ibnu Zaid.
+
+**5. Yang sesat adalah Nasrani.** Dalilnya: Surah Al-Ma'idah ayat 77, hadis Adi bin Hatim, dan riwayat sahabat dan tabiin yang sama. At-Tabari menjelaskan alasan kebahasaannya. Dalam bahasa Arab, "dhall" dipakai untuk siapa pun yang keluar dari jalan yang lurus. Nasrani disebut demikian karena mereka keliru memilih jalan dalam beragama.
+
+**6. Dua istilah ini bukan kotak yang kaku.** At-Tabari membahas satu pertanyaan penting: bukankah sifat sesat juga ada pada Yahudi? Jawabannya ya. Kedua kelompok itu sama-sama sesat dan sama-sama dimurkai. Allah hanya menyebut tiap kelompok dengan sifat yang paling menonjol pada mereka, supaya mudah dikenali.
+
+**7. Makna doanya.** At-Tabari membawakan riwayat dari Ibnu Abbas bahwa maksud doa ini kira-kira: ya Allah, ilhamkan kepada kami agama-Mu yang benar, yaitu mengesakan-Mu dan tidak menyekutukan-Mu, supaya Engkau tidak murka kepada kami seperti kepada Yahudi, dan tidak menyesatkan kami seperti Nasrani.
+
+**8. Soal "murka" Allah.** At-Tabari menyebut beberapa pendapat ulama tentang maknanya: menimpakan hukuman di dunia atau di akhirat, celaan dari Allah kepada mereka, atau sifat Allah yang benar-benar ada namun tidak sama dengan marahnya manusia. Manusia yang marah bisa terganggu, capek, atau kehilangan kendali. Allah tidak begitu.
+
+Perhatikan bahwa penjelasan At-Tabari sejalan dengan yang ditulis Ibnu Katsir di atas. Jadi tidak ada dua versi yang berbeda di sini.
 
 ### Cara membedakan dua kesalahan itu
 
@@ -186,4 +208,4 @@ Setelah membaca Al-Fatihah dalam shalat, kita mengucapkan "Aamiin", yang artinya
 
 ## Catatan untuk guru dan orang tua
 
-Tafsir ini disusun ringkas dan disederhanakan untuk pelajar SMP. Penjelasannya mengikuti pemahaman umum dalam kitab-kitab tafsir klasik, tetapi belum diperiksa ulang oleh ahli tafsir. Rujukan hadis dan pendapat ulama di atas sebaiknya diverifikasi ke kitab aslinya sebelum dipakai sebagai bahan resmi. Perbedaan pendapat, misalnya soal penghitungan ayat, hanya dirangkum secara singkat. Untuk ayat ke-7, rujukan hadis Adi bin Hatim dan nomor ayat pendukung (Al-Baqarah 90, Al-Ma'idah 60 dan 77, Al-Mumtahanah 8, Ali Imran 113) sebaiknya dicek langsung ke mushaf dan kitab hadis. Pembahasan lengkapnya ada di kitab seperti tafsir Ibnu Katsir atau At-Thabari.
+Tafsir ini disusun ringkas dan disederhanakan untuk pelajar SMP. Penjelasannya mengikuti pemahaman umum dalam kitab-kitab tafsir klasik, tetapi belum diperiksa ulang oleh ahli tafsir. Rujukan hadis dan pendapat ulama di atas sebaiknya diverifikasi ke kitab aslinya sebelum dipakai sebagai bahan resmi. Perbedaan pendapat, misalnya soal penghitungan ayat, hanya dirangkum secara singkat. Untuk ayat ke-7, isi penjelasan At-Tabari dan Ibnu Katsir sudah dicocokkan dengan teks keduanya (versi Arab dan Inggris) dari situs Quran.com, begitu pula nomor ayat pendukungnya (Al-Baqarah 90, Ali Imran 113, An-Nisa 69, Al-Ma'idah 60 dan 77, Al-Mumtahanah 8). Yang belum diperiksa: derajat sanad riwayat sahabat dan tabiin yang dibawakan At-Tabari, dan teks hadis di kitab hadis aslinya. Itu sebaiknya diperiksa guru atau ustadz. Pembahasan lengkapnya ada di kitab seperti tafsir Ibnu Katsir atau At-Thabari.
