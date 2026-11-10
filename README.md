@@ -1,6 +1,6 @@
-# Tafsir mudah untuk pelajar
+# Tafsir Mudah untuk Pelajar
 
-Tafsir Al-Qur'an dengan bahasa sehari-hari untuk pelajar SMP.
+Tafsir Al-Qur'an dengan bahasa sehari-hari untuk pelajar.
 
 Situs: https://bondhan.github.io/tafseer/
 
